@@ -7,7 +7,7 @@ bot = Create2(port)
 bot.start()
 
 # Launches the bot in safe mode
-# RECCOMENDED MODE!
+# RECOMMENDED MODE!
 bot.safe()
 
 # ONLY run in sudo mode if you know what you're doing
